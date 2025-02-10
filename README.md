@@ -72,8 +72,3 @@ A detail-oriented **Mechanical Design Engineer** with expertise in **CAD modelin
 
 ---
 
-### 📌 **Next Steps**
-1️⃣ Add **visuals** (FEA simulations, CAD designs, competition photos).  
-2️⃣ Improve **navigation** (jump links for sections).  
-3️⃣ Test mobile responsiveness.  
-
