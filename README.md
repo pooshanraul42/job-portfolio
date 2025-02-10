@@ -66,7 +66,7 @@ A detail-oriented **Mechanical Design Engineer** with expertise in **CAD modelin
 ---
 
 ## 🔹 Contact Information
-📧 **Email**: [pooshanvraul@gmail.com](mailto:pooshanvraul@gmail.com)  
+📧 **Email**: [pooshanvraul42@gmail.com](mailto:pooshanvraul42@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/pooshanraul](https://linkedin.com/in/pooshanraul)  
 📂 **GitHub**: [github.com/PooshanRaul](https://github.com/PooshanRaul)  
 
@@ -77,4 +77,3 @@ A detail-oriented **Mechanical Design Engineer** with expertise in **CAD modelin
 2️⃣ Improve **navigation** (jump links for sections).  
 3️⃣ Test mobile responsiveness.  
 
-🚀 **Portfolio is Live! Let's Enhance It Further!**
