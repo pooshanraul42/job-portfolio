@@ -1,4 +1,4 @@
-# Pooshan Raul - Mechanical Design Engineer
+Pooshan Raul - Mechanical Design Engineer
 
 ## 🔹 Professional Summary
 A detail-oriented **Mechanical Design Engineer** with expertise in **CAD modeling, FEA, CFD**, and **design validation**. Experienced in optimizing production processes for **automotive, energy, and industrial equipment sectors**. Adept at applying **data-driven solutions** to enhance performance, reduce costs, and streamline production workflows. Passionate about sustainable engineering and innovative design solutions.
@@ -76,6 +76,4 @@ A detail-oriented **Mechanical Design Engineer** with expertise in **CAD modelin
 ## 🔹 Contact Information
 📧 **Email**: [pooshanvraul@gmail.com](mailto:pooshanvraul@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/pooshanraul](https://linkedin.com/in/pooshanraul)  
-📂 **GitHub**: [github.com/PooshanRaul](https://github.com/PooshanRaul)  
-
----
+📂 **GitHub**: [github.com/PooshanRaul](https://github.com/PooshanRaul)
