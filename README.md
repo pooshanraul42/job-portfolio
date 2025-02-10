@@ -18,7 +18,7 @@ A detail-oriented **Mechanical Design Engineer** with expertise in **CAD modelin
 | Category       | Tools & Software |
 |---------------|-----------------|
 | **CAD**       | ![SolidWorks](https://img.shields.io/badge/-SolidWorks-red?style=flat) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-blue?style=flat) |
-| **CAE**       | ![ANSYS](https://img.shields.io/badge/-ANSYS-yellow?style=flat) ![Abaqus](https://img.shields.io/badge/-Abaqus-orange?style=flat) |
+| **CAE**       | ![ANSYS](https://img.shields.io/badge/-ANSYS-yellow?style=flat) ![Abaqus](https://img.shields.io/badge/-Abaqus-orange?style=flat) ![Inventor](https://img.shields.io/badge/-Inventor-green?style=flat) |
 | **CFD**       | ![ANSYS Fluent](https://img.shields.io/badge/-ANSYS%20Fluent-green?style=flat) |
 | **Other**     | MATLAB, Git, LabVIEW, MS Office |
 
@@ -63,12 +63,19 @@ A detail-oriented **Mechanical Design Engineer** with expertise in **CAD modelin
 - 🏆 **SAE Range Extended Electric Vehicle (REEV) 2022**: Best Design Award | **All India Rank 2**.
 - 🏆 **Indian Karting Championship 2022**: Best CAE Award | **All India Rank 3**.
 
+### **🔹 Resonance Racing**
+🚗 **Role:** Mechanical Design Engineer (2019-2022)  
+- Designed and optimized the **go-kart chassis** for enhanced performance and safety.
+- Conducted **FEA simulations** to ensure structural integrity under **dynamic loads**.
+- Led the development of **critical vehicle components**, improving **weight distribution and aerodynamics**.
+- Correlated **real-world performance data** with design simulations to fine-tune vehicle setup.
+- Presented technical designs at **national competitions**, winning multiple **design & CAE awards**.
+
 ---
 
 ## 🔹 Contact Information
-📧 **Email**: [pooshanvraul42@gmail.com](mailto:pooshanvraul42@gmail.com)  
+📧 **Email**: [pooshanvraul@gmail.com](mailto:pooshanvraul@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/pooshanraul](https://linkedin.com/in/pooshanraul)  
 📂 **GitHub**: [github.com/PooshanRaul](https://github.com/PooshanRaul)  
 
 ---
-
