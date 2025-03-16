@@ -1,1 +1,17 @@
-images/.gitkeep
+images/
+│── gokart/
+│   ├── CAD/
+│   ├── FEA/
+│
+│── pressure_vessel/
+│   ├── CAD/
+│   ├── FEA/
+│   ├── Meshing/
+│
+│── plant_assembly/
+│   ├── CAD/
+│   ├── FEA/
+│
+│── furniture_design/
+│   ├── CAD/
+│
