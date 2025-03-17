@@ -1,56 +1,51 @@
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    color: #333;
     margin: 0;
     padding: 0;
-}
-
-header {
-    background: #4CAF50;
-    color: white;
+    background-color: #f8f8f8;
     text-align: center;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    color: white;
     padding: 20px;
 }
 
-h1, h2 {
-    color: #333;
+header h1 {
+    margin: 0;
 }
 
-main {
-    margin: 20px auto;
-    max-width: 800px;
-}
-
-section {
+/* Project Sections */
+.project {
     background: white;
+    max-width: 900px;
+    margin: 30px auto;
     padding: 20px;
-    margin: 10px 0;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
+/* Image Gallery */
+.image-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
     margin-top: 10px;
 }
 
-th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
-    text-align: left;
+/* Image Styling */
+.image-gallery img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
-th {
-    background: #f4f4f4;
-}
-
-a {
-    color: #4CAF50;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
+.image-gallery img:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
